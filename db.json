@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "name": "pen",
+      "price": 50,
+      "category": "stationery",
+      "id": "be88"
+    },
+    {
+      "id": "5ac3",
+      "name": "bulb",
+      "price": 99,
+      "category": "electric"
+    },
+    {
+      "name": "tv",
+      "price": 299,
+      "category": "electronic",
+      "id": "fe5e"
+    },
+    {
+      "name": "ball",
+      "price": 170,
+      "category": "sports",
+      "id": "a263"
+    },
+    {
+      "id": "58f1",
+      "name": "sandwich",
+      "price": 120,
+      "category": "food"
+    }
+  ]
+}
